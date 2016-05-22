@@ -1,0 +1,89 @@
+Ada Lovelace (none)
+Adele Goldberg, Bill Gates
+Alan Turing, Dana Scully
+Alan Turing, Ms Frizzle
+Anakin Skywalker, Lara Croft
+Anakin Skywalker, Leeloo
+Angry Video Game Nerd, Jadzia Dax
+Angry Video Game Nerd, Ms Frizzle
+Angry Video Game Nerd, Natalie Portman
+Anita Borg, Bill Gates
+Barbara Liskov (none)
+Bill Gates, Adele Goldberg
+Bill Gates, Anita Borg
+Bill Gates, Grace Hopper
+Bill Gates, Kathryn Janeway
+Bill Gates, Leia Organa
+Bill Gates, Mary Lou Jepsen
+Bill Gates, Sarah Connor
+Bill Gates, Zelda
+Bill Joy (none)
+Bjarne Stroustroup, Leia Organa
+Bjarne Stroustroup, Mary Lou Jepsen
+Bjarne Stroustroup, Roberta Williams
+Bjarne Stroustroup, Sarah Connor
+Buffy Summers, Oldspice Guy
+Charles Babbage (none)
+Dana Scully, Alan Turing
+Deanna Troi (none)
+Donald Knuth (none)
+Edsger Dijkstra, Leeloo
+Ellen Ripley, Nostalgia Critic
+Frances Allen (none)
+Gordon Moore (none)
+Grace Hopper, Bill Gates
+Jadzia Dax, Angry Video Game Nerd
+James Gosling, Leeloo
+Jeannette Wing, Tyler Durden
+Kathryn Janeway, Bill Gates
+Kathryn Janeway, Oldspice Guy
+Lara Croft, Anakin Skywalker
+Lara Croft, Nostalgia Critic
+Leeloo, Anakin Skywalker
+Leeloo, Edsger Dijkstra
+Leeloo, James Gosling
+Leeloo, Nostalgia Critic
+Leeloo, Rasmus Lerdorf
+Leia Organa, Bill Gates
+Leia Organa, Bjarne Stroustroup
+Leia Organa, Oldspice Guy
+Lenore Blum (none)
+Marissa Mayer, Nostalgia Critic
+Mary Lou Jepsen, Bill Gates
+Mary Lou Jepsen, Bjarne Stroustroup
+Mary Lou Jepsen, Oldspice Guy
+Ms Frizzle, Alan Turing
+Ms Frizzle, Angry Video Game Nerd
+Ms Frizzle, Tyler Durden
+Natalie Portman, Angry Video Game Nerd
+Niklaus Wirth (none)
+Nostalgia Critic, Ellen Ripley
+Nostalgia Critic, Lara Croft
+Nostalgia Critic, Leeloo
+Nostalgia Critic, Marissa Mayer
+Nyota Uhura (none)
+Oldspice Guy, Buffy Summers
+Oldspice Guy, Kathryn Janeway
+Oldspice Guy, Leia Organa
+Oldspice Guy, Mary Lou Jepsen
+Oldspice Guy, Rosie O Donnell
+Oldspice Guy, Seven of Nine
+Oldspice Guy, Tpol
+Rasmus Lerdorf, Leeloo
+Richard Stallman (none)
+River Tam (none)
+Roberta Williams, Bjarne Stroustroup
+Rosie O Donnell, Oldspice Guy
+Sarah Connor, Bill Gates
+Sarah Connor, Bjarne Stroustroup
+Seven of Nine, Oldspice Guy
+Stewie Griffin (none)
+Stuart Reges (none)
+Tpol, Oldspice Guy
+Trinity (none)
+Tyler Durden, Jeannette Wing
+Tyler Durden, Ms Frizzle
+Valentina Tereshkova (none)
+Vint Cerf (none)
+Yukihiro Matsumoto (none)
+Zelda, Bill Gates
